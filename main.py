@@ -99,7 +99,7 @@ decimal = fractions.Fraction("0.247276109705412160222")
 texto = "Existe una cosa muy misteriosa, pero muy cotidiana. Todo el mundo participa de ella,  todo el mundo la conoce, pero muy pocos se paran a pensar en ella.  Casi todos se limitan a tomarla como viene, sin hacer preguntas.  Esta cosa es el tiempo.  (Momo, Michael Ende)"
 ejercicio2(texto, decimal, 17)
 
-print("Ejercicio 3:\n")
+print("\nEjercicio 3:\n")
 
 texto = "Un aire marino, pesado y fresco, entró en mis pulmones con la primera  sensación confusa de la ciudad: una masa de casas dormidas; de establecimientos  cerrados; de faroles como centinelas borrachos de soledad. Una respiración  grande, dificultosa, venía con el cuchicheo de la madrugada. Muy cerca, a mi  espalda, enfrente de las callejuelas misteriosas que conducen al Borne, sobre mi  corazón excitado, estaba el mar.  (NADA, Carmen Laforet, 1921-2004)"
 decimal = fractions.Fraction("0.96402816270036736770957975564255630564009")
